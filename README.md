@@ -12,14 +12,14 @@ Este proyecto utiliza módulos javascript, por lo tanto, hay que correrlo utiliz
 #### Python 3:
 `python -m http:server`
 
-#### Node
+#### Node:
 Para esto hay que tener instalado el gestor de paquetes npm.
 `npm -i serve`
 Una vez instalado serve, se puede servir cualquier directorio de la siguiente forma.
 ```
 serve .
 ```
-### VSCode
+#### VSCode:
 Instalar extensión **LiveServer**
 
 
